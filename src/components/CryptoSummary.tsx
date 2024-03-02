@@ -1,5 +1,5 @@
 import { Crypto } from "../Types";
-
+import React from "react";
 export type AppProps = {
   crypto: Crypto;
 };
